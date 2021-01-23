@@ -1,0 +1,7 @@
+E:\Programming\SideWork\C#\MentorMate-Brickwork\MentorMate-Brickwork\bin\Debug\MentorMate-Brickwork.exe.config
+E:\Programming\SideWork\C#\MentorMate-Brickwork\MentorMate-Brickwork\bin\Debug\MentorMate-Brickwork.exe
+E:\Programming\SideWork\C#\MentorMate-Brickwork\MentorMate-Brickwork\bin\Debug\MentorMate-Brickwork.pdb
+E:\Programming\SideWork\C#\MentorMate-Brickwork\MentorMate-Brickwork\obj\Debug\MentorMate-Brickwork.csprojAssemblyReference.cache
+E:\Programming\SideWork\C#\MentorMate-Brickwork\MentorMate-Brickwork\obj\Debug\MentorMate-Brickwork.csproj.CoreCompileInputs.cache
+E:\Programming\SideWork\C#\MentorMate-Brickwork\MentorMate-Brickwork\obj\Debug\MentorMate-Brickwork.exe
+E:\Programming\SideWork\C#\MentorMate-Brickwork\MentorMate-Brickwork\obj\Debug\MentorMate-Brickwork.pdb
